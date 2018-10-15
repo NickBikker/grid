@@ -101,9 +101,28 @@ li, .menu a{
 .banner-title{
     color: white;
     padding-top: 50px;
+    font-size: 26px;
+    line-height: 30px;
 }
 
 h2{
     margin-bottom: 10px;
+    font-size: 20px;
+    line-height: 22px;
 
+}
+
+p{
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.footer{
+    grid-column: 1 / 4;
+    background-image: url('img/footer_bg.png');
+    text-align: center;
+    color: white;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    margin-top: 50px;
 }
